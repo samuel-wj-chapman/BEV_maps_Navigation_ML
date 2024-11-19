@@ -8,6 +8,11 @@ general gh code:
 https://github.com/m-hamza-mughal/Aerial-Template-Matching
 https://github.com/AirVLN/AirVLN
 
+https://github.com/KumarRobotics/kr_autonomous_flight
+https://github.com/OSUPCVLab/PCVLabDrone2021
+
+
+
 papers:
 https://www.sciencedirect.com/science/article/abs/pii/S0967066110000808
 https://link.springer.com/content/pdf/10.1155/2009/387308.pdf
