@@ -20,6 +20,10 @@ https://ieeexplore.ieee.org/abstract/document/6777462
 https://ieeexplore.ieee.org/abstract/document/5545174
 
 
+good
+https://www.mdpi.com/2504-446X/8/8/375#:~:text=1.-,Pattern%2DMatching%20Algorithm,to%20the%20pattern%2Dmatching%20algorithm.
+
+
 paper review:
 https://www.mdpi.com/2504-446X/7/2/89
 https://www.tandfonline.com/doi/full/10.1080/10095020.2017.1420509 ## 2018 review
